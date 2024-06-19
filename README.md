@@ -1,3 +1,5 @@
+![David's Github Banner](https://github.com/dlin462/dlin462/assets/94275544/2f17ffc4-6277-481e-b2b1-6daed45e551a)
+
 <h1 align="center">Hi 👋, I'm David Lin</h1>
 <h3 align="center">A recent graduate in Computer Science, eager to learn and apply the skills I have learned to the tech world.</h3>
 
