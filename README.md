@@ -1,7 +1,9 @@
 ![David's Github Banner](https://github.com/dlin462/dlin462/assets/94275544/2f17ffc4-6277-481e-b2b1-6daed45e551a)
 
+
 <h1 align="center">Hi 👋, I'm David Lin</h1>
-<h3 align="center">A recent graduate in Computer Science, eager to learn and apply the skills I have learned to the tech world.</h3>
+<h2 align="center">A recent graduate in Computer Science, eager to learn and apply the skills I have learned to the tech world.</h3>
+<img align="right" alt="Coding" width="350" src="https://github.com/dlin462/dlin462/assets/94275544/d46bf592-49ba-4ae7-89d1-7c6003801b0b">
 
 - 👨‍💻 All of my projects are available at [davidlin462.netlify.app/](davidlin462.netlify.app/)
 
@@ -9,6 +11,7 @@
 
 - 📄 Know about my experiences [https://davidlin462.tiiny.site](https://davidlin462.tiiny.site)
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
