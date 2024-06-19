@@ -8,7 +8,7 @@
 - 📄 Know about my experiences [https://davidlin462.tiiny.site](https://davidlin462.tiiny.site)
 
 ## My Skill Set  
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="100%">
 
@@ -31,6 +31,7 @@
 
   </tr>
 </table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
