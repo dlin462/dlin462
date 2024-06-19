@@ -7,15 +7,10 @@
 
 - 📄 Know about my experiences [https://davidlin462.tiiny.site](https://davidlin462.tiiny.site)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/davidlin462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidlin462" height="30" width="40" /></a>
-</p>
-
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
@@ -25,7 +20,8 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+    </td>
+    <td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -35,3 +31,13 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
+
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/davidlin462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidlin462" height="30" width="40" /></a>
+</p>
+
