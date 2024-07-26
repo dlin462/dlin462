@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Davidlin462@gmail.com**
 
-- 📄 Know about my experiences [https://davidlin462.tiiny.site](https://davidlin462.tiiny.site)
+- 📄 Know about my experiences [https://dlindev.org](https://dlindev.org)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
