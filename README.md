@@ -5,11 +5,9 @@
 <h2 align="center">A recent graduate in Computer Science, eager to learn and apply the skills I have learned to the tech world.</h3>
 <img align="right" alt="Coding" width="350" src="https://github.com/dlin462/dlin462/assets/94275544/d46bf592-49ba-4ae7-89d1-7c6003801b0b">
 
-- 👨‍💻 All of my projects are available at [davidlin462.netlify.app/](davidlin462.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dlindev.org](https://dlindev.org)
 
 - 📫 How to reach me **Davidlin462@gmail.com**
-
-- 📄 Know about my experiences [https://dlindev.org](https://dlindev.org)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
