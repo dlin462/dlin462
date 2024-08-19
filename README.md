@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **Davidlin462@gmail.com**
 
+- ⭐ Connect with me on LinkedIn [https://www.linkedin.com/in/davidlin462/](https://www.linkedin.com/in/davidlin462/)
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## My Skill Set  
